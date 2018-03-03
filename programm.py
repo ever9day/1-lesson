@@ -7,3 +7,4 @@ elif t == "нет":
     print("А мне да")
 
 print("Lucky")
+print("Hi")
